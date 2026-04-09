@@ -34,4 +34,4 @@ echo -e "Memulai bot...\n"
 python bot.py
 EOF
 
-chmod +x run.sh
+
