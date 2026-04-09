@@ -78,4 +78,4 @@ echo -e "  ${YELLOW}python bot.py${NC}"
 echo -e "\nAtau gunakan: ${YELLOW}./run.sh${NC}"
 EOF
 
-chmod +x setup.sh
+
