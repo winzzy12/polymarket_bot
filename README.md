@@ -12,5 +12,8 @@ source venv/bin/activate
 # Upgrade pip
 pip install --upgrade pip
 
+# Run Install
+chmod +x setup.sh
+
 # Run Script
 chmod +x run.sh
